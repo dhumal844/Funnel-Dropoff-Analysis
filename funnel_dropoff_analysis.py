@@ -1,9 +1,5 @@
 """
 User Funnel Drop-off Analysis
-Data Analyst Intern Assessment - Fobes Skill Itech
-
-Input : funnel_events_sample.csv (user_id, step, timestamp)
-Output: funnel_results.csv, funnel_chart.png, console report
 """
 
 import pandas as pd
