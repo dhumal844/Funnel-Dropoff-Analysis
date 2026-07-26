@@ -1,0 +1,6 @@
+stage,users,label,pct_of_total,pct_of_previous,users_lost,dropoff_pct
+visited_site,200,Visited Site,100.0,100.0,0,0.0
+signup_started,150,Signup Started,75.0,75.0,50,25.0
+details_filled,96,Details Filled,48.0,64.0,54,36.0
+email_verified,52,Email Verified,26.0,54.2,44,45.8
+purchase_completed,44,Purchase Completed,22.0,84.6,8,15.4
